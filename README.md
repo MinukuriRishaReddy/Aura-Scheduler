@@ -70,20 +70,11 @@ Traditional scheduling systems often fail to handle overlapping bookings, role-b
 
 ## ⚙️ Installation & Setup
 
-Follow these steps to run the project locally:
+Follow the steps below to run the project locally:
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/Aura-Scheduler.git
-Navigate to the project directory
-## ⚙️ Installation & Setup
-
-### Navigate to the project directory
-```bash
-cd Aura-Scheduler
-npm install
-npm start
-http://localhost:3000
 
 ## 🌐 Deployment
 
@@ -121,7 +112,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## ⭐ Acknowledgements
+### ⭐ Acknowledgements
 
 Special thanks to mentors, peers, and open-source resources that supported the development of Aura Scheduler.
 
