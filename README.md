@@ -2,7 +2,7 @@
 
 Aura Scheduler is an AI-powered event and room booking platform designed to simplify scheduling, eliminate conflicts, and enable seamless coordination within institutions. It predicts conflicts in advance, recommends optimal time slots, and continuously learns from historical usage patterns to improve scheduling efficiency.
 
-🔗 **Live Project:** https://www.aurascheduler.netlify.app
+🔗 **Live Project:** https://aurascheduler.netlify.app
 
 ---
 
