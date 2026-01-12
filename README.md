@@ -76,59 +76,57 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/your-username/Aura-Scheduler.git
 Navigate to the project directory
+## ⚙️ Installation & Setup
 
-bash
-Copy code
+### Navigate to the project directory
+```bash
 cd Aura-Scheduler
-Install dependencies
-
-bash
-Copy code
 npm install
-Run the application
-
-bash
-Copy code
 npm start
-Open your browser and navigate to:
-
-arduino
-Copy code
 http://localhost:3000
-🌐 Deployment
-This project is deployed using Netlify.
 
-Steps to Deploy on Netlify:
-Push your project to GitHub
+## 🌐 Deployment
 
-Log in to Netlify
+This project is deployed using **Netlify**.
 
-Connect your GitHub repository
+### Steps to Deploy on Netlify:
+- Push your project to GitHub  
+- Log in to Netlify  
+- Connect your GitHub repository  
+- Configure the build command and publish directory  
+- Deploy the project  
 
-Configure build command and publish directory
+---
 
-Deploy the project
+## 📈 Future Enhancements
 
-📈 Future Enhancements
-Mobile application support
+- Mobile application support  
+- Advanced analytics and reporting  
+- Integration with Google Calendar and Outlook  
+- Institutional ERP integration  
+- AI-driven capacity optimization  
 
-Advanced analytics and reporting
+---
 
-Integration with Google Calendar and Outlook
+## 👩‍💻 Author
 
-Institutional ERP integration
+**Risha Reddy Minukuri**  
+AI | Web Development | Smart Scheduling Systems  
 
-AI-driven capacity optimization
+---
 
-👩‍💻 Author
-Risha Reddy Minukuri
-AI | Web Development | Smart Scheduling Systems
+## 📄 License
 
-📄 License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
-⭐ Acknowledgements
+---
+
+## ⭐ Acknowledgements
+
 Special thanks to mentors, peers, and open-source resources that supported the development of Aura Scheduler.
 
-📬 Feedback
+---
+
+## 📬 Feedback
+
 If you have suggestions or improvements, feel free to raise an issue or submit a pull request.
