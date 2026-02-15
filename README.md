@@ -101,11 +101,17 @@ This project is deployed using **Netlify**.
 
 ## 👩‍💻 Author
 
-**Risha Reddy Minukuri**  
+** Minukuri Risha Reddy **  
 AI | Web Development | Smart Scheduling Systems  
 
 ---
 
+## 👩‍💻 Co-Authors
+
+** Aenugu Manish Reddy **  
+** Aenugu Nithish Reddy ** 
+
+---
 ## 📄 License
 
 This project is licensed under the **MIT License**.
